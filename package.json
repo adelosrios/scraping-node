@@ -1,0 +1,26 @@
+{
+  "name": "scraping-node",
+  "version": "1.0.0",
+  "description": "Node Scraping course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelosrios/scraping-node.git"
+  },
+  "keywords": [
+    "Node",
+    "scraping"
+  ],
+  "author": "Aingeru De Los Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelosrios/scraping-node/issues"
+  },
+  "homepage": "https://github.com/adelosrios/scraping-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
